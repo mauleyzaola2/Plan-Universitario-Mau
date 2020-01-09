@@ -1,5 +1,3 @@
 # Escuelas
 
-## Tec
-
-[Mas Info](tec/readme.md)
+[Tec de Monterrey](tec/readme.md)
